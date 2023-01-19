@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.cartbutton {
+position: absolute;
+right: 90px;
+width: 70px;
+box-shadow: 20px;
+background-color: orange;
+}
+
+.navBar{
+position: center;
+background-color: aquamarine;
+}
